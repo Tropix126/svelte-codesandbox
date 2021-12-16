@@ -29,7 +29,7 @@ yarn add svelte-codesandbox
     import { Sandbox } from "svelte-codesandbox";
 </script>
 
-<Sandbox id="sandbox-id" />
+<Sandbox src="sandbox-id" />
 ```
 
 #### Customizing the Sandbox
