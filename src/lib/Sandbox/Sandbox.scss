@@ -1,0 +1,9 @@
+.sandbox {
+    --sandbox-width: 100%;
+    --sandbox-height: 500px;
+    border: none;
+    overflow: hidden;
+    inline-size: var(--sandbox-width);
+    block-size: var(--sandbox-height);
+    border-radius: 4px;
+}
