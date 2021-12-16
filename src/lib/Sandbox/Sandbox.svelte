@@ -1,5 +1,5 @@
 <script lang="ts">
-    /** Sandbox ID to be embedded */
+    /** The ID of the sandbox you want to embed */
     export let src = "new";
 
     /** Specifies a feature policy for the <iframe>. */
